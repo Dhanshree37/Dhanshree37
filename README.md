@@ -8,11 +8,11 @@
 💻 Java • Spring Boot • SQL  
 🚀 Passionate about building real-world, user-focused apps
 
----
+
 
 ### <p align="center">💬 Just a dev figuring it out one project at a time.</p>
 
----
+
 
 ## 🔭 Current Focus
 
