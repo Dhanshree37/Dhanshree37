@@ -2,10 +2,10 @@
   <img src="./banner.jpeg" alt="Dhanshree Patil Banner" style="width:100%;"/>
 </p>
 
-# 👋 Hey, I'm Dhanshree Patil
+# 👋 Hey, I'm Dhanshree
 
 🎓 IT Graduate & Full Stack Developer  
-💻 Java • Spring Boot • React • SQL  
+💻 Java • Spring Boot • SQL  
 🚀 Passionate about building real-world, user-focused apps
 
 ---
@@ -34,15 +34,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Dhanshree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanshree37&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - ✉️ dhanshreepatil51@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhanshree-patil-849615236/)
 
 ---
