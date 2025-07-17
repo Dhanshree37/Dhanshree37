@@ -16,8 +16,7 @@
 
 ## 🔭 Current Focus
 
-- 📚 Learning Spring Boot & DSA  
-- 🧩 Improving projects related to child healthcare & education  
+- 📚 Learning Spring Boot & DSA   
 - 🔍 Seeking internships and entry-level dev roles  
 
 ---
