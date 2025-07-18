@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.jpeg" alt="Dhanshree Patil Banner" style="width:100%;"/>
-</p>
+
 
 # 👋 Hey, I'm Dhanshree
 
